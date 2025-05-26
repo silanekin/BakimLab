@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367572752786",
+    "project_id": "bakimlab-f696b21",
+    "storage_bucket": "bakimlab-f696b21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367572752786:android:8480eb77447bba07f5494b",
+        "android_client_info": {
+          "package_name": "com.example.silan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_nDD3eYy3v6P-ObI7f767rVm8ask1-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367572752786:android:c576498817bb9b60f5494b",
+        "android_client_info": {
+          "package_name": "com.example.temel_widget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_nDD3eYy3v6P-ObI7f767rVm8ask1-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
